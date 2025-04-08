@@ -1,5 +1,5 @@
 # This is a Heading
-![Screenshot of bruh face](/Screenshot%202025-04-07%20at%2010.58.57 PM.png)
+![Screenshot of bruh face](Screenshot 2025-04-07 at 10.58.57 PM.png)
 **This is bold**
 
 > This is a quote
@@ -19,6 +19,7 @@ Ordered
 1. Bruh
 2. Bruh2
 3. Bruh3
+
 Unordered
 - Bruh
 - Bruh
